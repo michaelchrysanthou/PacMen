@@ -14,6 +14,8 @@ Add Styling
 
 Add grid or maze so that PacMan follows a path
 
+Add Stop Function
+
 # License information
 
 No license is needed. (Under MIT)
