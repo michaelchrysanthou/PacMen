@@ -1,0 +1,10 @@
+.font{
+    font-family: 'Press Start 2P';
+    text-align: center;
+    font-size: 55px;
+    color: white;
+}
+
+.background{
+    background-image: url('images/grid\ 1.jpg');
+}
