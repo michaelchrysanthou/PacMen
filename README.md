@@ -10,7 +10,7 @@ Start the game and then continue to add PacMen
 
 ## Roadmap
 
-Add Styling
+Add More Styling
 
 Add grid or maze so that PacMan follows a path
 
